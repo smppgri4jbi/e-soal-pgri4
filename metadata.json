@@ -1,0 +1,6 @@
+{
+  "name": "EduExam AI - Generator Soal Ujian & Manajemen Kelas Cloud",
+  "description": "Platform pembuatan soal ujian otomatis berbasis AI dengan database bank soal, variasi paket ujian, ekspor PDF resmi, manajemen kelas cloud, analitik performa siswa real-time, integrasi API LMS, dan push notifikasi.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

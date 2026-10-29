@@ -1,0 +1,9 @@
+.git
+.github
+.playwright-cli
+*.test.ts
+*.test.js
+.env
+.env.local
+node_modules
+dist
